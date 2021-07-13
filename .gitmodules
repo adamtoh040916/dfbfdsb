@@ -1,0 +1,15 @@
+[submodule "ThirdParty/cpp-base64"]
+	path = ThirdParty/cpp-base64
+	url = https://github.com/ReneNyffenegger/cpp-base64
+[submodule "ThirdParty/md5"]
+	path = ThirdParty/md5
+	url = https://github.com/JieweiWei/md5
+[submodule "ThirdParty/tinyxml2"]
+	path = ThirdParty/tinyxml2
+	url = https://github.com/leethomason/tinyxml2.git
+[submodule "ThirdParty/URLDecode"]
+	path = ThirdParty/URLDecode
+	url = https://github.com/abejfehr/URLDecode
+[submodule "ThirdParty/mongoose"]
+	path = ThirdParty/mongoose
+	url = https://github.com/cesanta/mongoose
